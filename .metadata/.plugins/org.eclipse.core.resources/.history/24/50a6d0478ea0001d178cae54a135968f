@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>this is help page</title>
+</head>
+<body>
+<%
+
+	String name= (String) request.getAttribute("name");
+	Integer rollnum = (Integer) request.getAttribute("name")
+%>
+	<h1>hello my name is adnan</h1>
+	<h1>this is help page</h1>
+</body>
+</html>

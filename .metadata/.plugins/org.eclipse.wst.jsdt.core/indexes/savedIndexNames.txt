@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/arbab/Desktop/Spring-core/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3517084235.index
+623321106.index
+56426788.index
+1776022926.index
+3253549958.index
+25981260.index
+2929048443.index
